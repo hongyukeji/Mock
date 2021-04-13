@@ -1,5 +1,5 @@
 {
-  "name": "mockjs",
+  "name": "mockjs-next",
   "title": "Mock.js",
   "description": "生成随机数据 & 拦截 Ajax 请求",
   "version": "1.0.1-beta3",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nuysoft/Mock.git"
+    "url": "git://github.com/hongyukeji/Mock.git"
   },
   "main": "./dist/mock.js",
   "scripts": {
